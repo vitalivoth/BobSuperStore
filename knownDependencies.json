@@ -1,0 +1,1607 @@
+{
+  "PackageWithVersions": [
+    {
+      "PackageId": "Argon",
+      "VersionString": "0.2.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/SimonCropp/Argon",
+      "CopyrightOrOwner": "Copyright 2023. All rights reserved",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/SimonCropp/Argon.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "Autofac",
+      "VersionString": "6.5.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://autofac.org/",
+      "CopyrightOrOwner": "Copyright © 2015 Autofac Contributors",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/autofac/Autofac",
+      "Comment": null
+    },
+    {
+      "PackageId": "Castle.Core",
+      "VersionString": "5.1.1",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "http://www.castleproject.org/",
+      "CopyrightOrOwner": "Copyright (c) 2004-2022 Castle Project - http://www.castleproject.org/",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/castleproject/Core",
+      "Comment": null
+    },
+    {
+      "PackageId": "CommandLineParser",
+      "VersionString": "2.9.1",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://github.com/commandlineparser/commandline",
+      "CopyrightOrOwner": "Copyright (c) 2005 - 2020 Giacomo Stelluti Scala & Contributors",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "CsvHelper",
+      "VersionString": "30.0.1",
+      "LicenceUrl": "https://licenses.nuget.org/MS-PL%20OR%20Apache-2.0",
+      "ProjectUrl": "https://joshclose.github.io/CsvHelper/",
+      "CopyrightOrOwner": "Copyright © 2009-2022 Josh Close",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/JoshClose/CsvHelper",
+      "Comment": null
+    },
+    {
+      "PackageId": "DiffEngine",
+      "VersionString": "11.1.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/VerifyTests/DiffEngine",
+      "CopyrightOrOwner": "Copyright 2023. All rights reserved",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/VerifyTests/DiffEngine.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "EmptyFiles",
+      "VersionString": "4.1.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/SimonCropp/EmptyFiles",
+      "CopyrightOrOwner": "Copyright 2022. All rights reserved",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/SimonCropp/EmptyFiles.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "FParsec",
+      "VersionString": "1.0.3",
+      "LicenceUrl": "http://www.quanttec.com/fparsec/license.html",
+      "ProjectUrl": "http://www.quanttec.com/fparsec/",
+      "CopyrightOrOwner": "Copyright © Stephan Tolksdorf",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/stephan-tolksdorf/fparsec",
+      "Comment": null
+    },
+    {
+      "PackageId": "FSharp.Core",
+      "VersionString": "4.5.4",
+      "LicenceUrl": "https://github.com/Microsoft/visualfsharp/blob/master/License.txt",
+      "ProjectUrl": "https://github.com/Microsoft/visualfsharp",
+      "CopyrightOrOwner": "(C) Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Gurobi.Optimizer",
+      "VersionString": "10.0.1",
+      "LicenceUrl": "https://www.gurobi.com/EULA",
+      "ProjectUrl": "https://www.gurobi.com/",
+      "CopyrightOrOwner": "Copyright 2023 Gurobi Optimization, LLC",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "JetBrains.Annotations",
+      "VersionString": "2022.3.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://www.jetbrains.com/help/resharper/Code_Analysis__Code_Annotations.html",
+      "CopyrightOrOwner": "JetBrains",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/JetBrains/JetBrains.Annotations.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "MathNet.Numerics",
+      "VersionString": "4.7.0",
+      "LicenceUrl": "https://numerics.mathdotnet.com/License.html",
+      "ProjectUrl": "https://numerics.mathdotnet.com/",
+      "CopyrightOrOwner": "Copyright Math.NET Project",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/mathnet/mathnet-numerics",
+      "Comment": null
+    },
+    {
+      "PackageId": "MathNet.Numerics.FSharp",
+      "VersionString": "4.7.0",
+      "LicenceUrl": "https://numerics.mathdotnet.com/License.html",
+      "ProjectUrl": "https://numerics.mathdotnet.com/",
+      "CopyrightOrOwner": "Copyright Math.NET Project",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/mathnet/mathnet-numerics",
+      "Comment": null
+    },
+    {
+      "PackageId": "MathNet.Symbolics",
+      "VersionString": "0.20.0",
+      "LicenceUrl": "https://symbolics.mathdotnet.com/License.html",
+      "ProjectUrl": "https://symbolics.mathdotnet.com/",
+      "CopyrightOrOwner": "Copyright Math.NET Project",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/mathnet/mathnet-symbolics",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.CodeCoverage",
+      "VersionString": "17.4.1",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://github.com/microsoft/vstest/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/microsoft/vstest",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.CSharp",
+      "VersionString": "4.7.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/corefx",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.Binder",
+      "VersionString": "2.0.0",
+      "LicenceUrl": "https://raw.githubusercontent.com/aspnet/Home/2.0.0/LICENSE.txt",
+      "ProjectUrl": "https://asp.net/",
+      "CopyrightOrOwner": "Copyright © Microsoft Corporation",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/aspnet/Configuration",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.Json",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.DependencyModel",
+      "VersionString": "3.0.0",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/core-setup",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Primitives",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.NET.Test.Sdk",
+      "VersionString": "17.4.1",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://github.com/microsoft/vstest/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/microsoft/vstest",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.NETCore.Platforms",
+      "VersionString": "1.1.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.NETCore.Targets",
+      "VersionString": "1.1.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.TestPlatform.ObjectModel",
+      "VersionString": "17.4.1",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://github.com/microsoft/vstest/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/microsoft/vstest",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.TestPlatform.TestHost",
+      "VersionString": "17.4.1",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://github.com/microsoft/vstest/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/microsoft/vstest",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Win32.Primitives",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Win32.Registry",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/runtime",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "Microsoft.Z3.x64",
+      "VersionString": "4.8.4",
+      "LicenceUrl": "https://raw.githubusercontent.com/Z3Prover/z3/master/LICENSE.txt",
+      "ProjectUrl": "https://github.com/Z3Prover/z3",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/Z3Prover/z3.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "Moq",
+      "VersionString": "4.18.4",
+      "LicenceUrl": "https://raw.githubusercontent.com/moq/moq4/main/License.txt",
+      "ProjectUrl": "https://github.com/moq/moq4",
+      "CopyrightOrOwner": "",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/moq/moq4",
+      "Comment": null
+    },
+    {
+      "PackageId": "NETStandard.Library",
+      "VersionString": "1.6.1",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Newtonsoft.Json",
+      "VersionString": "13.0.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://www.newtonsoft.com/json",
+      "CopyrightOrOwner": "Copyright © James Newton-King 2008",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/JamesNK/Newtonsoft.Json",
+      "Comment": null
+    },
+    {
+      "PackageId": "NuGet.Frameworks",
+      "VersionString": "5.11.0",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "https://aka.ms/nugetprj",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/NuGet/NuGet.Client",
+      "Comment": null
+    },
+    {
+      "PackageId": "NUnit",
+      "VersionString": "3.13.3",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://nunit.org/",
+      "CopyrightOrOwner": "Copyright (c) 2022 Charlie Poole, Rob Prouse",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/nunit/nunit",
+      "Comment": null
+    },
+    {
+      "PackageId": "NUnit.Analyzers",
+      "VersionString": "3.3.0",
+      "LicenceUrl": "https://aka.ms/deprecateLicenseUrl",
+      "ProjectUrl": "https://github.com/nunit/nunit.analyzers",
+      "CopyrightOrOwner": "Copyright (c) 2018-2021 NUnit project",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/nunit/nunit.analyzers",
+      "Comment": null
+    },
+    {
+      "PackageId": "NUnit3TestAdapter",
+      "VersionString": "4.3.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://docs.nunit.org/articles/vs-test-adapter/Index.html",
+      "CopyrightOrOwner": "Copyright (c) 2011-2021 Charlie Poole, 2014-2022 Terje Sandstrom",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/nunit/nunit3-vs-adapter",
+      "Comment": null
+    },
+    {
+      "PackageId": "OPTANO.Modeling",
+      "VersionString": "3.14.2.575",
+      "LicenceUrl": null,
+      "ProjectUrl": null,
+      "CopyrightOrOwner": null,
+      "UsedInProjects": [],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "OPTANO.Modeling.Gurobi",
+      "VersionString": "10.0.1.32",
+      "LicenceUrl": null,
+      "ProjectUrl": null,
+      "CopyrightOrOwner": null,
+      "UsedInProjects": [],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.native.System",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.native.System.IO.Compression",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.native.System.Net.Http",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.native.System.Security.Cryptography.Apple",
+      "VersionString": "4.3.1",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple",
+      "VersionString": "4.3.1",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.2",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Serilog",
+      "VersionString": "2.12.0",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "https://serilog.net/",
+      "CopyrightOrOwner": "",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/serilog/serilog.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "Serilog.Settings.Configuration",
+      "VersionString": "3.4.0",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "https://github.com/serilog/serilog-settings-configuration/",
+      "CopyrightOrOwner": "",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/serilog/serilog-settings-configuration.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "Serilog.Sinks.Console",
+      "VersionString": "4.1.0",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "https://github.com/serilog/serilog-sinks-console",
+      "CopyrightOrOwner": "",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/serilog/serilog-sinks-console",
+      "Comment": null
+    },
+    {
+      "PackageId": "Serilog.Sinks.File",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "https://serilog.net/",
+      "CopyrightOrOwner": "",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/serilog/serilog-sinks-file",
+      "Comment": null
+    },
+    {
+      "PackageId": "Shouldly",
+      "VersionString": "4.1.0",
+      "LicenceUrl": "https://licenses.nuget.org/BSD-2-Clause",
+      "ProjectUrl": "https://github.com/shouldly/shouldly",
+      "CopyrightOrOwner": "",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/shouldly/shouldly.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "SimpleInfoName",
+      "VersionString": "2.1.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "",
+      "CopyrightOrOwner": "Copyright 2023. All rights reserved",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "StyleCop.Analyzers",
+      "VersionString": "1.1.118",
+      "LicenceUrl": "https://licenses.nuget.org/Apache-2.0",
+      "ProjectUrl": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers",
+      "CopyrightOrOwner": "Copyright 2015 Tunnel Vision Laboratories, LLC",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.AppContext",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Buffers",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.CodeDom",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/runtime",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Collections",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Collections.Concurrent",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Console",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Diagnostics.Debug",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Diagnostics.DiagnosticSource",
+      "VersionString": "4.7.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/corefx",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Diagnostics.EventLog",
+      "VersionString": "6.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Diagnostics.Tools",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Diagnostics.Tracing",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Globalization",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Globalization.Calendars",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Globalization.Extensions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.IO",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.IO.Compression",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.IO.Compression.ZipFile",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.IO.FileSystem",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.IO.FileSystem.Primitives",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Linq",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Linq.Expressions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Management",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/runtime",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Net.Http",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Net.Primitives",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Net.Sockets",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.ObjectModel",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.Emit",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.Emit.ILGeneration",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.Emit.Lightweight",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.Extensions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.Metadata",
+      "VersionString": "1.6.0",
+      "LicenceUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.Primitives",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Reflection.TypeExtensions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Resources.ResourceManager",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime.CompilerServices.Unsafe",
+      "VersionString": "6.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime.Extensions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime.Handles",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime.InteropServices",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime.InteropServices.RuntimeInformation",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Runtime.Numerics",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.AccessControl",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/runtime",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Algorithms",
+      "VersionString": "4.3.1",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Cng",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Csp",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Encoding",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.OpenSsl",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Primitives",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Cryptography.X509Certificates",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Security.Principal.Windows",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/runtime",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Text.Encoding",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Text.Encoding.Extensions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Text.Encodings.Web",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Text.Json",
+      "VersionString": "7.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Text.RegularExpressions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Threading",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Threading.Tasks",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Threading.Tasks.Extensions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Threading.Timer",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Xml.ReaderWriter",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "System.Xml.XDocument",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    {
+      "PackageId": "Verify",
+      "VersionString": "19.7.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/VerifyTests/Verify",
+      "CopyrightOrOwner": "Copyright 2023. All rights reserved",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/VerifyTests/Verify.git",
+      "Comment": null
+    },
+    {
+      "PackageId": "Verify.NUnit",
+      "VersionString": "19.7.1",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/VerifyTests/Verify",
+      "CopyrightOrOwner": "Copyright 2023. All rights reserved",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "https://github.com/VerifyTests/Verify.git",
+      "Comment": null
+    }
+  ],
+  "ProjectsWithoutNuget": [],
+  "PackagesToIgnore": [],
+  "DuplicatePackages": [
+    {
+      "PackageId": "Microsoft.NETCore.Platforms",
+      "VersionString": "5.0.0",
+      "LicenceUrl": "https://licenses.nuget.org/MIT",
+      "ProjectUrl": "https://github.com/dotnet/runtime",
+      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": "git://github.com/dotnet/runtime",
+      "Comment": null
+    },
+    {
+      "PackageId": "NETStandard.Library",
+      "VersionString": "2.0.0",
+      "LicenceUrl": "https://github.com/dotnet/standard/blob/master/LICENSE.TXT",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": ".NET Foundation and Contributors",
+      "UsedInProjects": [
+        "BobSuperStores.Tests.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    }
+  ],
+  "LicUrls": [
+    null,
+    "http://go.microsoft.com/fwlink/?LinkId=329770",
+    "http://www.quanttec.com/fparsec/license.html",
+    "https://aka.ms/deprecateLicenseUrl",
+    "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+    "https://github.com/dotnet/standard/blob/master/LICENSE.TXT",
+    "https://github.com/Microsoft/visualfsharp/blob/master/License.txt",
+    "https://licenses.nuget.org/Apache-2.0",
+    "https://licenses.nuget.org/BSD-2-Clause",
+    "https://licenses.nuget.org/MIT",
+    "https://licenses.nuget.org/MS-PL%20OR%20Apache-2.0",
+    "https://numerics.mathdotnet.com/License.html",
+    "https://raw.githubusercontent.com/aspnet/Home/2.0.0/LICENSE.txt",
+    "https://raw.githubusercontent.com/moq/moq4/main/License.txt",
+    "https://raw.githubusercontent.com/Z3Prover/z3/master/LICENSE.txt",
+    "https://symbolics.mathdotnet.com/License.html",
+    "https://www.gurobi.com/EULA"
+  ]
+}

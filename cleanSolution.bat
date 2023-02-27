@@ -1,0 +1,1 @@
+for /f "delims=" %%d in ('dir /a:d /s /b . ^| findstr "\\bin$ \\obj$" ^| findstr /v "node_modules"') do @if exist "%%d" rd /s/q "%%d"

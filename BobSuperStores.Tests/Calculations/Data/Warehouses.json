@@ -1,0 +1,20 @@
+﻿[
+  {
+    "OpeningCosts": 1500000.0,
+    "Name": "F102",
+    "Latitude": 50.92380221,
+    "Longitude": 11.57329102
+  },
+  {
+    "OpeningCosts": 1500000.0,
+    "Name": "F101",
+    "Latitude": 50.77119674,
+    "Longitude": 16.2534668
+  },
+  {
+    "OpeningCosts": 1500000.0,
+    "Name": "F100",
+    "Latitude": 53.628708,
+    "Longitude": 11.413336
+  }
+]

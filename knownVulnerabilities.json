@@ -1,0 +1,25 @@
+[
+  {
+    "Package": {
+      "PackageId": "System.Text.RegularExpressions",
+      "VersionString": "4.3.0",
+      "LicenceUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "ProjectUrl": "https://dot.net/",
+      "CopyrightOrOwner": "© Microsoft Corporation.  All rights reserved.",
+      "UsedInProjects": [
+        "BobSuperStores.csproj"
+      ],
+      "SourceCodeUrl": null,
+      "Comment": null
+    },
+    "Info": [
+      {
+        "id": "CVE-2019-0820",
+        "title": "[CVE-2019-0820] CWE-400: Uncontrolled Resource Consumption ('Resource Exhaustion')",
+        "description": "A denial of service vulnerability exists when .NET Framework and .NET Core improperly process RegEx strings, aka '.NET Framework and .NET Core Denial of Service Vulnerability'. This CVE ID is unique from CVE-2019-0980, CVE-2019-0981.\n\nSonatype's research suggests that this CVE's details differ from those defined at NVD. See https://ossindex.sonatype.org/vulnerability/CVE-2019-0820 for details",
+        "cvssScore": "7.5",
+        "reference": "https://ossindex.sonatype.org/vulnerability/CVE-2019-0820?component-type=nuget&component-name=System.Text.RegularExpressions"
+      }
+    ]
+  }
+]

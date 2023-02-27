@@ -1,0 +1,5516 @@
+﻿{
+  SuperStores: [
+    {
+      Name: Dresden,
+      Latitude: 51.050407,
+      Longitude: 13.737262
+    },
+    {
+      Name: Frankfurt,
+      Latitude: 50.110924,
+      Longitude: 8.682127
+    },
+    {
+      Name: Hamburg,
+      Latitude: 53.551086,
+      Longitude: 9.993682
+    },
+    {
+      Name: Koszalin,
+      Latitude: 54.18995,
+      Longitude: 16.18103
+    },
+    {
+      Name: London,
+      Latitude: 51.507351,
+      Longitude: -0.127758
+    },
+    {
+      Name: Lyon,
+      Latitude: 45.764042,
+      Longitude: 4.835659
+    },
+    {
+      Name: Munich,
+      Latitude: 48.135124,
+      Longitude: 11.581981
+    },
+    {
+      Name: Nürnberg,
+      Latitude: 49.452103,
+      Longitude: 11.046665
+    },
+    {
+      Name: Ostrava,
+      Latitude: 49.820923,
+      Longitude: 18.262524
+    },
+    {
+      Name: Paris,
+      Latitude: 48.856613,
+      Longitude: 2.352222
+    },
+    {
+      Name: Paderborn,
+      Latitude: 51.727691,
+      Longitude: 8.698393
+    },
+    {
+      Name: Strasburg,
+      Latitude: 48.573406,
+      Longitude: 7.752111
+    },
+    {
+      Name: Warszawa,
+      Latitude: 52.229675,
+      Longitude: 21.01223
+    },
+    {
+      Name: Vienna,
+      Latitude: 48.208176,
+      Longitude: 16.373819
+    },
+    {
+      Name: Amsterdam,
+      Latitude: 52.370216,
+      Longitude: 4.895168
+    },
+    {
+      Name: Berlin,
+      Latitude: 52.520008,
+      Longitude: 13.404954
+    },
+    {
+      Name: Budapest,
+      Latitude: 47.497913,
+      Longitude: 19.040236
+    },
+    {
+      Name: Cologne,
+      Latitude: 50.937531,
+      Longitude: 6.960279
+    }
+  ],
+  Warehouses: [
+    {
+      OpeningCosts: 15000.0,
+      Name: F120,
+      Latitude: 51.10351093,
+      Longitude: 5.047412109
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F119,
+      Latitude: 47.42064245,
+      Longitude: 0.630908203
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F118,
+      Latitude: 52.63638601,
+      Longitude: 1.290087891
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F117,
+      Latitude: 53.19285973,
+      Longitude: 6.541552734
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F116,
+      Latitude: 51.715248,
+      Longitude: 8.75213
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F115,
+      Latitude: 49.20323128,
+      Longitude: 6.849169922
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F114,
+      Latitude: 48.33433151,
+      Longitude: 10.87016602
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F113,
+      Latitude: 47.06262653,
+      Longitude: 15.46245117
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F112,
+      Latitude: 49.71736506,
+      Longitude: 13.30913086
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F111,
+      Latitude: 51.78822107,
+      Longitude: 18.09916992
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F110,
+      Latitude: 52.75623262,
+      Longitude: 15.1987793
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F109,
+      Latitude: 51.31000243,
+      Longitude: 12.43022461
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F108,
+      Latitude: 48.72719725,
+      Longitude: 21.19731445
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F107,
+      Latitude: 51.32373562,
+      Longitude: 9.419970703
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F106,
+      Latitude: 47.56910192,
+      Longitude: 7.596240234
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F105,
+      Latitude: 45.43699598,
+      Longitude: 8.628955078
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F104,
+      Latitude: 47.24193691,
+      Longitude: 6.014208984
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F103,
+      Latitude: 51.19998884,
+      Longitude: 4.388232422
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F102,
+      Latitude: 50.92380221,
+      Longitude: 11.57329102
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F101,
+      Latitude: 50.77119674,
+      Longitude: 16.2534668
+    },
+    {
+      OpeningCosts: 15000.0,
+      Name: F100,
+      Latitude: 53.628708,
+      Longitude: 11.413336
+    }
+  ],
+  Distances: [
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 606.76
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1031.81
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 871.91
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 545.65
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 353.69
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 531.99
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 365.65
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 460.86
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 151.3
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 313.34
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 214.54
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 95.57
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 593.23
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 302.38
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 589.6
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 729.45
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 702.88
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 652.22
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 152.12
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 179.12
+    },
+    {
+      Store: {
+        Name: Dresden,
+        Latitude: 51.050407,
+        Longitude: 13.737262
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 327.25
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 279.19
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 661.11
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 584.52
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 373.12
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 178.46
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 166.11
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 253.5
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 602.63
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 334.13
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 684.99
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 538.75
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 295.63
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 917.13
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 144.52
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 293.59
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 519.73
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 374.3
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 325.96
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 223.49
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 540.94
+    },
+    {
+      Store: {
+        Name: Frankfurt,
+        Latitude: 50.110924,
+        Longitude: 8.682127
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 433.7
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 432.33
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 949.01
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 589.61
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 232.43
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 220.65
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 530.31
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 583.31
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 818.81
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 483.69
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 580.24
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 358.06
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 298.94
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 946.3
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 250.7
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 686.28
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 907.57
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 755.83
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 461.45
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 311.29
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 526.82
+    },
+    {
+      Store: {
+        Name: Hamburg,
+        Latitude: 53.551086,
+        Longitude: 9.993682
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 94.09
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 824.63
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1322.32
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 999.97
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 643.77
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 568.28
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 847.97
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 748.18
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 794.13
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 534.74
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 296.29
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 172.16
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 407.66
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 699.42
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 555.13
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 949.8
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 1112.51
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 1051.19
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 860.13
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 478.26
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 380.18
+    },
+    {
+      Store: {
+        Name: Koszalin,
+        Latitude: 54.18995,
+        Longitude: 16.18103
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 318.4
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 362.47
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 457.71
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 158.59
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 489.99
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 613.22
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 557.04
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 861.68
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 1230.92
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 967.3
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 1254.69
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 1053.26
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 870.22
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 1545.73
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 661.97
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 708.18
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 932.74
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 649.71
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 315.41
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 816.7
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 1143.39
+    },
+    {
+      Store: {
+        Name: London,
+        Latitude: 51.507351,
+        Longitude: -0.127758
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 813.85
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 593.93
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 370.28
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 806.17
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 835.12
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 721.11
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 411.23
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 538.94
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 826.71
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 770.44
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 1177.57
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 1079.65
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 831.57
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 1275.47
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 703.99
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 290.93
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 297.32
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 187.46
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 605.35
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 759.06
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 1010.31
+    },
+    {
+      Store: {
+        Name: Lyon,
+        Latitude: 45.764042,
+        Longitude: 4.835659
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 993.29
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 574.59
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 821.45
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 883.54
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 664.83
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 446.59
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 367.21
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 57.18
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 314.41
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 216.5
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 617.91
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 573.95
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 358.25
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 711.99
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 387.07
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 303.95
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 374.85
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 428.32
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 619.39
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 310.09
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 446.99
+    },
+    {
+      Store: {
+        Name: Munich,
+        Latitude: 48.135124,
+        Longitude: 11.581981
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 610.97
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 464.0
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 800.16
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 767.63
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 520.38
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 299.25
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 305.41
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 124.96
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 421.14
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 165.74
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 560.94
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 467.84
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 228.69
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 742.97
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 237.92
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 329.25
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 481.99
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 445.63
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 510.84
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 167.88
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 399.1
+    },
+    {
+      Store: {
+        Name: Nürnberg,
+        Latitude: 49.452103,
+        Longitude: 11.046665
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 465.11
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 944.92
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1319.91
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 1219.39
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 892.27
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 700.62
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 826.07
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 562.96
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 369.71
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 355.86
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 219.05
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 389.69
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 443.81
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 245.17
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 645.98
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 821.09
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 870.03
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 945.12
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 991.46
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 489.8
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 177.56
+    },
+    {
+      Store: {
+        Name: Ostrava,
+        Latitude: 49.820923,
+        Longitude: 18.262524
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 633.4
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 315.49
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 204.46
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 426.87
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 563.99
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 554.47
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 330.06
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 628.77
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 995.05
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 799.71
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 1161.87
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 999.56
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 768.3
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 1377.03
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 573.67
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 413.99
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 607.86
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 326.03
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 298.38
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 698.86
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 1018.26
+    },
+    {
+      Store: {
+        Name: Paris,
+        Latitude: 48.856613,
+        Longitude: 2.352222
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 823.17
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 262.5
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 752.74
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 514.86
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 218.83
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 3.95
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 309.7
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 407.92
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 712.65
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 393.98
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 646.62
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 456.96
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 262.33
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 948.18
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 67.15
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 469.16
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 699.51
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 535.06
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 304.25
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 218.83
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 536.22
+    },
+    {
+      Store: {
+        Name: Paderborn,
+        Latitude: 51.727691,
+        Longitude: 8.698393
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 279.57
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 341.67
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 544.94
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 641.46
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 520.61
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 356.54
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 96.24
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 231.46
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 599.41
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 423.63
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 817.92
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 700.64
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 452.24
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 986.57
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 328.26
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 112.27
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 355.03
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 196.71
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 378.57
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 378.96
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 658.29
+    },
+    {
+      Store: {
+        Name: Strasburg,
+        Latitude: 48.573406,
+        Longitude: 7.752111
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 617.32
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 1105.86
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1550.42
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 1333.64
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 978.99
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 840.76
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 1050.35
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 839.68
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 699.39
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 606.97
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 205.32
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 397.8
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 598.94
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 389.68
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 803.0
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 1089.39
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 1177.06
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 1209.01
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 1148.44
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 667.71
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 367.06
+    },
+    {
+      Store: {
+        Name: Warszawa,
+        Latitude: 52.229675,
+        Longitude: 21.01223
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 661.38
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 875.46
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1176.73
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 1173.62
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 885.64
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 669.75
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 707.14
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 407.49
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 144.53
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 279.64
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 416.72
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 512.49
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 446.19
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 360.21
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 607.42
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 657.98
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 664.54
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 781.69
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 922.57
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 459.22
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 285.13
+    },
+    {
+      Store: {
+        Name: Vienna,
+        Latitude: 48.208176,
+        Longitude: 16.373819
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 695.46
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 141.24
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 629.19
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 245.78
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 143.62
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 273.62
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 377.96
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 616.94
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 960.43
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 657.5
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 903.38
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 697.18
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 530.67
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 1217.81
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 331.82
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 567.63
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 817.53
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 575.85
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 134.71
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 487.82
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 803.98
+    },
+    {
+      Store: {
+        Name: Amsterdam,
+        Latitude: 52.370216,
+        Longitude: 4.895168
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 457.9
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 595.36
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1072.95
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 817.75
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 466.66
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 329.98
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 589.29
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 498.78
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 624.48
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 311.71
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 330.36
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 123.86
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 150.24
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 692.21
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 303.88
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 688.82
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 860.81
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 789.69
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 635.9
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 217.75
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 276.45
+    },
+    {
+      Store: {
+        Name: Berlin,
+        Latitude: 52.520008,
+        Longitude: 13.404954
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 181.37
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 1088.81
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 1380.8
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 1385.03
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 1087.33
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 875.99
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 919.54
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 615.63
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 274.17
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 488.13
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 481.84
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 645.42
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 638.64
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 210.53
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 814.75
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 858.41
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 828.92
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 980.23
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 1135.97
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 662.3
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 416.56
+    },
+    {
+      Store: {
+        Name: Budapest,
+        Latitude: 47.497913,
+        Longitude: 19.040236
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 867.86
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F120,
+        Latitude: 51.10351093,
+        Longitude: 5.047412109
+      },
+      Value: 135.06
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F119,
+        Latitude: 47.42064245,
+        Longitude: 0.630908203
+      },
+      Value: 603.43
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F118,
+        Latitude: 52.63638601,
+        Longitude: 1.290087891
+      },
+      Value: 433.19
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F117,
+        Latitude: 53.19285973,
+        Longitude: 6.541552734
+      },
+      Value: 252.41
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F116,
+        Latitude: 51.715248,
+        Longitude: 8.75213
+      },
+      Value: 151.58
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F115,
+        Latitude: 49.20323128,
+        Longitude: 6.849169922
+      },
+      Value: 193.01
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F114,
+        Latitude: 48.33433151,
+        Longitude: 10.87016602
+      },
+      Value: 403.71
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F113,
+        Latitude: 47.06262653,
+        Longitude: 15.46245117
+      },
+      Value: 754.46
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F112,
+        Latitude: 49.71736506,
+        Longitude: 13.30913086
+      },
+      Value: 470.49
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F111,
+        Latitude: 51.78822107,
+        Longitude: 18.09916992
+      },
+      Value: 778.34
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F110,
+        Latitude: 52.75623262,
+        Longitude: 15.1987793
+      },
+      Value: 600.55
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F109,
+        Latitude: 51.31000243,
+        Longitude: 12.43022461
+      },
+      Value: 383.9
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F108,
+        Latitude: 48.72719725,
+        Longitude: 21.19731445
+      },
+      Value: 1048.48
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F107,
+        Latitude: 51.32373562,
+        Longitude: 9.419970703
+      },
+      Value: 176.92
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F106,
+        Latitude: 47.56910192,
+        Longitude: 7.596240234
+      },
+      Value: 377.38
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F105,
+        Latitude: 45.43699598,
+        Longitude: 8.628955078
+      },
+      Value: 623.97
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F104,
+        Latitude: 47.24193691,
+        Longitude: 6.014208984
+      },
+      Value: 416.66
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F103,
+        Latitude: 51.19998884,
+        Longitude: 4.388232422
+      },
+      Value: 182.06
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F102,
+        Latitude: 50.92380221,
+        Longitude: 11.57329102
+      },
+      Value: 323.24
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F101,
+        Latitude: 50.77119674,
+        Longitude: 16.2534668
+      },
+      Value: 652.18
+    },
+    {
+      Store: {
+        Name: Cologne,
+        Latitude: 50.937531,
+        Longitude: 6.960279
+      },
+      Warehouse: {
+        OpeningCosts: 15000.0,
+        Name: F100,
+        Latitude: 53.628708,
+        Longitude: 11.413336
+      },
+      Value: 425.65
+    }
+  ]
+}

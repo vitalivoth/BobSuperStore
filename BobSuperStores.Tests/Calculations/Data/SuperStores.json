@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Name": "London",
+    "Latitude": 51.507351,
+    "Longitude": -127758.0
+  },
+  {
+    "Name": "Paris",
+    "Latitude": 48.856613,
+    "Longitude": 2352222.0
+  },
+  {
+    "Name": "Paderborn",
+    "Latitude": 51.727691,
+    "Longitude": 8.698393
+  },
+  {
+    "Name": "Vienna",
+    "Latitude": 48.208176,
+    "Longitude": 16.373819
+  },
+  {
+    "Name": "Berlin",
+    "Latitude": 52.520008,
+    "Longitude": 13.404954
+  }
+]

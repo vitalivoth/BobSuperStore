@@ -1,0 +1,128 @@
+﻿[
+  {
+    OpeningCosts: 1500000.0,
+    Name: F120,
+    Latitude: 51.10351093,
+    Longitude: 5.047412109
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F119,
+    Latitude: 47.42064245,
+    Longitude: 0.630908203
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F118,
+    Latitude: 52.63638601,
+    Longitude: 1.290087891
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F117,
+    Latitude: 53.19285973,
+    Longitude: 6.541552734
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F116,
+    Latitude: 51.715248,
+    Longitude: 8.75213
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F115,
+    Latitude: 49.20323128,
+    Longitude: 6.849169922
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F114,
+    Latitude: 48.33433151,
+    Longitude: 10.87016602
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F113,
+    Latitude: 47.06262653,
+    Longitude: 15.46245117
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F112,
+    Latitude: 49.71736506,
+    Longitude: 13.30913086
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F111,
+    Latitude: 51.78822107,
+    Longitude: 18.09916992
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F110,
+    Latitude: 52.75623262,
+    Longitude: 15.1987793
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F109,
+    Latitude: 51.31000243,
+    Longitude: 12.43022461
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F108,
+    Latitude: 48.72719725,
+    Longitude: 21.19731445
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F107,
+    Latitude: 51.32373562,
+    Longitude: 9.419970703
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F106,
+    Latitude: 47.56910192,
+    Longitude: 7.596240234
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F105,
+    Latitude: 45.43699598,
+    Longitude: 8.628955078
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F104,
+    Latitude: 47.24193691,
+    Longitude: 6.014208984
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F103,
+    Latitude: 51.19998884,
+    Longitude: 4.388232422
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F102,
+    Latitude: 50.92380221,
+    Longitude: 11.57329102
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F101,
+    Latitude: 50.77119674,
+    Longitude: 16.2534668
+  },
+  {
+    OpeningCosts: 1500000.0,
+    Name: F100,
+    Latitude: 53.628708,
+    Longitude: 11.413336
+  }
+]

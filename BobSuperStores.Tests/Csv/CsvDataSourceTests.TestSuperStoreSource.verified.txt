@@ -1,0 +1,92 @@
+﻿[
+  {
+    Name: Dresden,
+    Latitude: 51.050407,
+    Longitude: 13.737262
+  },
+  {
+    Name: Frankfurt,
+    Latitude: 50.110924,
+    Longitude: 8.682127
+  },
+  {
+    Name: Hamburg,
+    Latitude: 53.551086,
+    Longitude: 9.993682
+  },
+  {
+    Name: Koszalin,
+    Latitude: 54.18995,
+    Longitude: 16.18103
+  },
+  {
+    Name: London,
+    Latitude: 51.507351,
+    Longitude: -0.127758
+  },
+  {
+    Name: Lyon,
+    Latitude: 45.764042,
+    Longitude: 4.835659
+  },
+  {
+    Name: Munich,
+    Latitude: 48.135124,
+    Longitude: 11.581981
+  },
+  {
+    Name: Nürnberg,
+    Latitude: 49.452103,
+    Longitude: 11.046665
+  },
+  {
+    Name: Ostrava,
+    Latitude: 49.820923,
+    Longitude: 18.262524
+  },
+  {
+    Name: Paris,
+    Latitude: 48.856613,
+    Longitude: 2.352222
+  },
+  {
+    Name: Paderborn,
+    Latitude: 51.727691,
+    Longitude: 8.698393
+  },
+  {
+    Name: Strasburg,
+    Latitude: 48.573406,
+    Longitude: 7.752111
+  },
+  {
+    Name: Warszawa,
+    Latitude: 52.229675,
+    Longitude: 21.01223
+  },
+  {
+    Name: Vienna,
+    Latitude: 48.208176,
+    Longitude: 16.373819
+  },
+  {
+    Name: Amsterdam,
+    Latitude: 52.370216,
+    Longitude: 4.895168
+  },
+  {
+    Name: Berlin,
+    Latitude: 52.520008,
+    Longitude: 13.404954
+  },
+  {
+    Name: Budapest,
+    Latitude: 47.497913,
+    Longitude: 19.040236
+  },
+  {
+    Name: Cologne,
+    Latitude: 50.937531,
+    Longitude: 6.960279
+  }
+]

@@ -1,0 +1,212 @@
+﻿[
+  {
+    Store: {
+      Name: London,
+      Latitude: 51.507351,
+      Longitude: -127758.0
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F102,
+      Latitude: 50.92380221,
+      Longitude: 11.57329102
+    },
+    Value: 2104.95
+  },
+  {
+    Store: {
+      Name: London,
+      Latitude: 51.507351,
+      Longitude: -127758.0
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F101,
+      Latitude: 50.77119674,
+      Longitude: 16.2534668
+    },
+    Value: 1788.84
+  },
+  {
+    Store: {
+      Name: London,
+      Latitude: 51.507351,
+      Longitude: -127758.0
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F100,
+      Latitude: 53.628708,
+      Longitude: 11.413336
+    },
+    Value: 2064.43
+  },
+  {
+    Store: {
+      Name: Paris,
+      Latitude: 48.856613,
+      Longitude: 2352222.0
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F102,
+      Latitude: 50.92380221,
+      Longitude: 11.57329102
+    },
+    Value: 2116.6
+  },
+  {
+    Store: {
+      Name: Paris,
+      Latitude: 48.856613,
+      Longitude: 2352222.0
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F101,
+      Latitude: 50.77119674,
+      Longitude: 16.2534668
+    },
+    Value: 2444.79
+  },
+  {
+    Store: {
+      Name: Paris,
+      Latitude: 48.856613,
+      Longitude: 2352222.0
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F100,
+      Latitude: 53.628708,
+      Longitude: 11.413336
+    },
+    Value: 2098.54
+  },
+  {
+    Store: {
+      Name: Paderborn,
+      Latitude: 51.727691,
+      Longitude: 8.698393
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F102,
+      Latitude: 50.92380221,
+      Longitude: 11.57329102
+    },
+    Value: 218.83
+  },
+  {
+    Store: {
+      Name: Paderborn,
+      Latitude: 51.727691,
+      Longitude: 8.698393
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F101,
+      Latitude: 50.77119674,
+      Longitude: 16.2534668
+    },
+    Value: 536.22
+  },
+  {
+    Store: {
+      Name: Paderborn,
+      Latitude: 51.727691,
+      Longitude: 8.698393
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F100,
+      Latitude: 53.628708,
+      Longitude: 11.413336
+    },
+    Value: 279.57
+  },
+  {
+    Store: {
+      Name: Vienna,
+      Latitude: 48.208176,
+      Longitude: 16.373819
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F102,
+      Latitude: 50.92380221,
+      Longitude: 11.57329102
+    },
+    Value: 459.22
+  },
+  {
+    Store: {
+      Name: Vienna,
+      Latitude: 48.208176,
+      Longitude: 16.373819
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F101,
+      Latitude: 50.77119674,
+      Longitude: 16.2534668
+    },
+    Value: 285.13
+  },
+  {
+    Store: {
+      Name: Vienna,
+      Latitude: 48.208176,
+      Longitude: 16.373819
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F100,
+      Latitude: 53.628708,
+      Longitude: 11.413336
+    },
+    Value: 695.46
+  },
+  {
+    Store: {
+      Name: Berlin,
+      Latitude: 52.520008,
+      Longitude: 13.404954
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F102,
+      Latitude: 50.92380221,
+      Longitude: 11.57329102
+    },
+    Value: 217.75
+  },
+  {
+    Store: {
+      Name: Berlin,
+      Latitude: 52.520008,
+      Longitude: 13.404954
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F101,
+      Latitude: 50.77119674,
+      Longitude: 16.2534668
+    },
+    Value: 276.45
+  },
+  {
+    Store: {
+      Name: Berlin,
+      Latitude: 52.520008,
+      Longitude: 13.404954
+    },
+    Warehouse: {
+      OpeningCosts: 1500000.0,
+      Name: F100,
+      Latitude: 53.628708,
+      Longitude: 11.413336
+    },
+    Value: 181.37
+  }
+]
