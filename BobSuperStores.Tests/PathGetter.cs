@@ -29,48 +29,22 @@
 
 #endregion
 
-namespace BobSuperStores.Tests.Builder;
-
-using Autofac;
-
-using BobSuperStores.Data;
-using BobSuperStores.Data.Builder;
-using BobSuperStores.Data.Csv;
-using BobSuperStores.Data.Logging;
-using BobSuperStores.Data.Modules;
-
-using Serilog;
-using Serilog.Core;
-
-using Shouldly;
+namespace BobSuperStores.Tests;
 
 /// <summary>
-/// Tests the <see cref="DefaultDataContextBuilder"/>.
+/// Helper methods for getting paths for test data.
 /// </summary>
-[TestFixture]
-public class DefaultDataContextBuilderTests
+public static class PathGetter
 {
     #region Public Methods and Operators
 
     /// <summary>
-    /// Test that the data context is correctly build from CSV files.
+    /// Gets the path to the csv folder in the solution from the test project.
     /// </summary>
-    /// <returns>>A <see cref="Task"/> representing the asynchronous unit test.</returns>
-    [Test]
-    public async Task TestCorrectBuild()
+    /// <returns>The path to use.</returns>
+    public static string GetPathToCsvFolder()
     {
-        var builder = new ContainerBuilder();
-        builder.RegisterInstance(new CsvCommandLineOptions { SourceFileDirectory = PathGetter.GetPathToCsvFolder() }).AsSelf();
-        builder.RegisterModule(new FromCsvModule(Logger.None));
-        builder.RegisterInstance(Logger.None).As<ILogger>().SingleInstance();
-        builder.RegisterType<OptLogger>().As<IOptanoLogger>().SingleInstance();
-        var container = builder.Build();
-
-        await using var scope = container.BeginLifetimeScope();
-        var contextBuilder = scope.Resolve<IDataContextBuilder>();
-        contextBuilder.GetType().ShouldBe(typeof(DefaultDataContextBuilder));
-
-        await Verifier.Verify(contextBuilder.Build());
+        return Path.Combine("..", "..", "..", "..", "CsvData");
     }
 
     #endregion

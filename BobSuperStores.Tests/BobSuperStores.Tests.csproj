@@ -12,21 +12,21 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Autofac" Version="6.5.0"/>
-        <PackageReference Include="JetBrains.Annotations" Version="2022.3.1"/>
-        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.1"/>
-        <PackageReference Include="Moq" Version="4.18.4"/>
-        <PackageReference Include="NUnit" Version="3.13.3"/>
-        <PackageReference Include="NUnit3TestAdapter" Version="4.3.1"/>
-        <PackageReference Include="NUnit.Analyzers" Version="3.3.0"/>
-        <PackageReference Include="OPTANO.Modeling.Gurobi" Version="10.0.1.32"/>
-        <PackageReference Include="Serilog" Version="2.12.0"/>
-        <PackageReference Include="Shouldly" Version="4.1.0"/>
+        <PackageReference Include="Autofac" Version="6.5.0" />
+        <PackageReference Include="JetBrains.Annotations" Version="2022.3.1" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.1" />
+        <PackageReference Include="Moq" Version="4.18.4" />
+        <PackageReference Include="NUnit" Version="3.13.3" />
+        <PackageReference Include="NUnit3TestAdapter" Version="4.3.1" />
+        <PackageReference Include="NUnit.Analyzers" Version="3.3.0" />
+        <PackageReference Include="OPTANO.Modeling.Gurobi" Version="10.0.1.32" />
+        <PackageReference Include="Serilog" Version="2.12.0" />
+        <PackageReference Include="Shouldly" Version="4.1.0" />
         <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="Verify.NUnit" Version="19.7.1"/>
+        <PackageReference Include="Verify.NUnit" Version="19.7.1" />
     </ItemGroup>
 
     <PropertyGroup>
@@ -35,19 +35,19 @@
     </PropertyGroup>
     
     <ItemGroup>
-        <ProjectReference Include="..\BobSuperStores.Data\BobSuperStores.Data.csproj"/>
-        <ProjectReference Include="..\BobSuperStores\BobSuperStores.csproj"/>
+        <ProjectReference Include="..\BobSuperStores.Data\BobSuperStores.Data.csproj" />
+        <ProjectReference Include="..\BobSuperStores\BobSuperStores.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-        <None Remove="Calculations\Data\SuperStores.json"/>
-        <EmbeddedResource Include="Calculations\Data\SuperStores.json"/>
-        <None Remove="Calculations\Data\Warehouses.json"/>
-        <EmbeddedResource Include="Calculations\Data\Warehouses.json"/>
+        <None Remove="Calculations\Data\SuperStores.json" />
+        <EmbeddedResource Include="Calculations\Data\SuperStores.json" />
+        <None Remove="Calculations\Data\Warehouses.json" />
+        <EmbeddedResource Include="Calculations\Data\Warehouses.json" />
     </ItemGroup>
 
     <ItemGroup>
-        <Content Remove="../stylecop.json"/>
-        <AdditionalFiles Include="../stylecop.json"/>
+        <Content Remove="../stylecop.json" />
+        <AdditionalFiles Include="../stylecop.json" />
     </ItemGroup>
 </Project>

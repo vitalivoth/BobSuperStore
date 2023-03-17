@@ -70,9 +70,10 @@ public static class OptimizationTestRunner
     /// <param name="additionalRegistrations">Optional additional registrations.</param>
     /// <returns>If solving the model data with the optimization model was successful.</returns>
     public static bool RunOptimizationForModelDataFromCsvImport(
-        string csvImportPath = @"..\..\..\..\CsvData",
+        string csvImportPath = null,
         Action<ContainerBuilder> additionalRegistrations = null)
     {
+        csvImportPath ??= PathGetter.GetPathToCsvFolder();
         var registrationsToAdd = new Action<ContainerBuilder>(
             cb =>
                 {

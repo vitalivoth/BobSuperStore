@@ -54,7 +54,7 @@ public class CsvDataSourceTests
     public async Task TestSuperStoreSource()
     {
         var dataSource = new CsvDataSource<SuperStore>(
-            new CsvCommandLineOptions { SourceFileDirectory = @"..\..\..\..\CsvData" },
+            new CsvCommandLineOptions { SourceFileDirectory = PathGetter.GetPathToCsvFolder() },
             Mock.Of<IOptanoLogger>());
         await Verifier.Verify(dataSource.LoadData(new DataContext()));
     }
@@ -67,7 +67,7 @@ public class CsvDataSourceTests
     public async Task TestWarehouseSource()
     {
         var dataSource = new CsvDataSource<Warehouse>(
-            new CsvCommandLineOptions { SourceFileDirectory = @"..\..\..\..\CsvData" },
+            new CsvCommandLineOptions { SourceFileDirectory = PathGetter.GetPathToCsvFolder() },
             Mock.Of<IOptanoLogger>());
         await Verifier.Verify(dataSource.LoadData(new DataContext()));
     }
