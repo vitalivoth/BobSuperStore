@@ -397,18 +397,6 @@
       "Comment": null
     },
     {
-      "PackageId": "Microsoft.Z3.x64",
-      "VersionString": "4.8.4",
-      "LicenceUrl": "https://raw.githubusercontent.com/Z3Prover/z3/master/LICENSE.txt",
-      "ProjectUrl": "https://github.com/Z3Prover/z3",
-      "CopyrightOrOwner": "© Microsoft Corporation. All rights reserved.",
-      "UsedInProjects": [
-        "BobSuperStores.csproj"
-      ],
-      "SourceCodeUrl": "https://github.com/Z3Prover/z3.git",
-      "Comment": null
-    },
-    {
       "PackageId": "Moq",
       "VersionString": "4.18.4",
       "LicenceUrl": "https://raw.githubusercontent.com/moq/moq4/main/License.txt",
@@ -494,7 +482,7 @@
     },
     {
       "PackageId": "OPTANO.Modeling",
-      "VersionString": "3.14.2.575",
+      "VersionString": "3.21.0.641",
       "LicenceUrl": null,
       "ProjectUrl": null,
       "CopyrightOrOwner": null,
@@ -1600,7 +1588,6 @@
     "https://numerics.mathdotnet.com/License.html",
     "https://raw.githubusercontent.com/aspnet/Home/2.0.0/LICENSE.txt",
     "https://raw.githubusercontent.com/moq/moq4/main/License.txt",
-    "https://raw.githubusercontent.com/Z3Prover/z3/master/LICENSE.txt",
     "https://symbolics.mathdotnet.com/License.html",
     "https://www.gurobi.com/EULA"
   ]
