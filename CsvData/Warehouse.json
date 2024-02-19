@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "F120",
+    "Longitude": 5.047412109,
+    "Latitude": 51.10351093,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F119",
+    "Longitude": 0.630908203,
+    "Latitude": 47.42064245,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F118",
+    "Longitude": 1.290087891,
+    "Latitude": 52.63638601,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F117",
+    "Longitude": 6.541552734,
+    "Latitude": 53.19285973,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F116",
+    "Longitude": 8.75213,
+    "Latitude": 51.715248,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F115",
+    "Longitude": 6.849169922,
+    "Latitude": 49.20323128,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F114",
+    "Longitude": 10.87016602,
+    "Latitude": 48.33433151,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F113",
+    "Longitude": 15.46245117,
+    "Latitude": 47.06262653,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F112",
+    "Longitude": 13.30913086,
+    "Latitude": 49.71736506,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F111",
+    "Longitude": 18.09916992,
+    "Latitude": 51.78822107,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F110",
+    "Longitude": 15.1987793,
+    "Latitude": 52.75623262,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F109",
+    "Longitude": 12.43022461,
+    "Latitude": 51.31000243,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F108",
+    "Longitude": 21.19731445,
+    "Latitude": 48.72719725,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F107",
+    "Longitude": 9.419970703,
+    "Latitude": 51.32373562,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F106",
+    "Longitude": 7.596240234,
+    "Latitude": 47.56910192,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F105",
+    "Longitude": 8.628955078,
+    "Latitude": 45.43699598,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F104",
+    "Longitude": 6.014208984,
+    "Latitude": 47.24193691,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F103",
+    "Longitude": 4.388232422,
+    "Latitude": 51.19998884,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F102",
+    "Longitude": 11.57329102,
+    "Latitude": 50.92380221,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F101",
+    "Longitude": 16.2534668,
+    "Latitude": 50.77119674,
+    "OpeningCosts": 1500000
+  },
+  {
+    "Name": "F100",
+    "Longitude": 11.413336,
+    "Latitude": 53.628708,
+    "OpeningCosts": 1500000
+  }
+]

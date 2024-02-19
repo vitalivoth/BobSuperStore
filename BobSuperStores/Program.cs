@@ -32,7 +32,7 @@
 using Autofac;
 
 using BobSuperStores.Data;
-using BobSuperStores.Data.Csv;
+using BobSuperStores.DataSource;
 using BobSuperStores.Data.Optimization.OptanoModeling;
 using BobSuperStores.Modules;
 
@@ -43,6 +43,7 @@ using JetBrains.Annotations;
 using Microsoft.Extensions.Configuration;
 
 using Serilog;
+using System.Reflection;
 
 const int ApplicationSuccess = 0;
 const int CommandLineOptionsNotValid = 1;
@@ -57,9 +58,10 @@ using var logger = new LoggerConfiguration()
     .CreateLogger();
 
 var builder = new ContainerBuilder();
-return Parser.Default.ParseArguments<CsvCommandLineOptions>(args)
+return Parser.Default.ParseArguments<CsvCommandLineOptions, JsonCommandLineOptions>(args)
     .MapResult(
-        csvOptions => ValidateCommandLineOptions(csvOptions) ? Run(builder, new MainModule(logger, csvOptions)) : CommandLineOptionsNotValid,
+        (CsvCommandLineOptions csvOptions) => ValidateCommandLineOptions(csvOptions) ? Run(builder, new MainModule(logger, csvOptions.SourceFileDirectory), false) : CommandLineOptionsNotValid,
+        (JsonCommandLineOptions csvOptions) => ValidateCommandLineOptions(csvOptions) ? Run(builder, new MainModule(logger, csvOptions.SourceFileDirectory), true) : CommandLineOptionsNotValid,
         _ => CommandLineOptionsNotValid);
 
 bool ValidateCommandLineOptions(IValidatableCommandLineOptions commandLineOptions)
@@ -81,11 +83,16 @@ bool ValidateCommandLineOptions(IValidatableCommandLineOptions commandLineOption
     return true;
 }
 
-int Run([NotNull] ContainerBuilder builder, [NotNull] MainModule module)
+int Run([NotNull] ContainerBuilder builder, [NotNull] MainModule module, bool foo)
 {
     // register all modules
     builder.RegisterModule(module);
+    if (foo)
+        builder.RegisterModule(new FromJsonModule(logger));
+    else
+        builder.RegisterModule(new FromCsvModule(logger));
     builder.RegisterAssemblyModules(typeof(IProblemSolver).Assembly);
+
 
     // solve the facility location problem
     using var scope = builder.Build().BeginLifetimeScope();

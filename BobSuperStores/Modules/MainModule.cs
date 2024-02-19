@@ -32,9 +32,6 @@
 namespace BobSuperStores.Modules;
 
 using Autofac;
-
-using BobSuperStores.Data.Csv;
-
 using JetBrains.Annotations;
 
 using Serilog;
@@ -50,7 +47,7 @@ public class MainModule : Module
     private readonly ILogger _logger;
 
     [NotNull]
-    private readonly CsvCommandLineOptions _commandLineOptions;
+    private readonly string _commandLineOptions;
 
     #endregion
 
@@ -61,7 +58,7 @@ public class MainModule : Module
     /// </summary>
     /// <param name="logger">The main logger to register.</param>
     /// <param name="commandLineOptions">The command line options to register.</param>
-    public MainModule([NotNull] ILogger logger, [NotNull] CsvCommandLineOptions commandLineOptions)
+    public MainModule([NotNull] ILogger logger, [NotNull] string commandLineOptions)
     {
         this._logger = logger ?? throw new ArgumentNullException(nameof(logger));
         this._commandLineOptions = commandLineOptions ?? throw new ArgumentNullException(nameof(commandLineOptions));

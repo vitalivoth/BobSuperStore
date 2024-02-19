@@ -29,34 +29,31 @@
 
 #endregion
 
-namespace BobSuperStores.Data.Csv;
+namespace BobSuperStores.DataSource;
 
-using System.Globalization;
-
+using BobSuperStores.Data;
+using BobSuperStores.DataSource;
 using BobSuperStores.Data.Logging;
-
-using CsvHelper;
-using CsvHelper.Configuration;
-
 using JetBrains.Annotations;
+using Newtonsoft.Json;
 
 /// <summary>
-/// The data source implementation that loads the data from a CSV file.
+/// The data source implementation that loads the data from a JSON file.
 /// </summary>
 /// <typeparam name="T">The type that can be loaded by the data source.</typeparam>
-public class CsvDataSource<T> : IDataSource<T>
+public class JsonDataSource<T> : IDataSource<T>
 {
     #region Constructors and Destructors
 
     /// <summary>
-    /// Initializes a new instance of the <see cref="CsvDataSource{T}"/> class.
+    /// Initializes a new instance of the <see cref="JsonDataSource{T}"/> class.
     /// </summary>
     /// <param name="options">The options that were provided from the command line.</param>
     /// <param name="logger">The logger.</param>
-    public CsvDataSource([NotNull] CsvCommandLineOptions options, [NotNull] IOptanoLogger logger)
+    public JsonDataSource([NotNull] string options, [NotNull] IOptanoLogger logger)
     {
-        this.Options = options ?? throw new ArgumentNullException(nameof(options));
-        this.Logger = logger ?? throw new ArgumentNullException(nameof(logger));
+        Options = options ?? throw new ArgumentNullException(nameof(options));
+        Logger = logger ?? throw new ArgumentNullException(nameof(logger));
     }
 
     #endregion
@@ -64,7 +61,7 @@ public class CsvDataSource<T> : IDataSource<T>
     #region Properties
 
     [NotNull]
-    private CsvCommandLineOptions Options { get; }
+    private string Options { get; }
 
     [NotNull]
     private IOptanoLogger Logger { get; }
@@ -76,17 +73,10 @@ public class CsvDataSource<T> : IDataSource<T>
     /// <inheritdoc />
     public IEnumerable<T> LoadData(DataContext currentContext)
     {
-        var config = new CsvConfiguration(CultureInfo.InvariantCulture)
-                         {
-                             HasHeaderRecord = true,
-                             Delimiter = ";",
-                         };
-
-        var csvPath = Path.Combine(this.Options.SourceFileDirectory, $"{typeof(T).Name}.csv");
-        this.Logger.Log(LogLevel.Information, "Loading {0} from CSV source {1}...", typeof(T).Name, csvPath);
-        using var reader = new StreamReader(csvPath);
-        using var csv = new CsvReader(reader, config);
-        return csv.GetRecords<T>().ToList();
+        var path = Path.Combine(Options, $"{typeof(T).Name}.json");
+        Logger.Log(LogLevel.Information, "Loading {0} from JSON source {1}...", typeof(T).Name, path);
+        var foo = JsonConvert.DeserializeObject<List<T>>(File.ReadAllText(path));
+        return foo;
     }
 
     #endregion

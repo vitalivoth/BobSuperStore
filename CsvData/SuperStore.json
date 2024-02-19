@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Dresden",
+    "Longitude": 13.737262,
+    "Latitude": 51.050407
+  },
+  {
+    "Name": "Frankfurt",
+    "Longitude": 8.682127,
+    "Latitude": 50.110924
+  },
+  {
+    "Name": "Hamburg",
+    "Longitude": 9.993682,
+    "Latitude": 53.551086
+  },
+  {
+    "Name": "Koszalin",
+    "Longitude": 16.18103,
+    "Latitude": 54.18995
+  },
+  {
+    "Name": "London",
+    "Longitude": -0.127758,
+    "Latitude": 51.507351
+  },
+  {
+    "Name": "Lyon",
+    "Longitude": 4.835659,
+    "Latitude": 45.764042
+  },
+  {
+    "Name": "Munich",
+    "Longitude": 11.581981,
+    "Latitude": 48.135124
+  },
+  {
+    "Name": "N�rnberg",
+    "Longitude": 11.046665,
+    "Latitude": 49.452103
+  },
+  {
+    "Name": "Ostrava",
+    "Longitude": 18.262524,
+    "Latitude": 49.820923
+  },
+  {
+    "Name": "Paris",
+    "Longitude": 2.352222,
+    "Latitude": 48.856613
+  },
+  {
+    "Name": "Paderborn",
+    "Longitude": 8.698393,
+    "Latitude": 51.727691
+  },
+  {
+    "Name": "Strasburg",
+    "Longitude": 7.752111,
+    "Latitude": 48.573406
+  },
+  {
+    "Name": "Warszawa",
+    "Longitude": 21.01223,
+    "Latitude": 52.229675
+  },
+  {
+    "Name": "Vienna",
+    "Longitude": 16.373819,
+    "Latitude": 48.208176
+  },
+  {
+    "Name": "Amsterdam",
+    "Longitude": 4.895168,
+    "Latitude": 52.370216
+  },
+  {
+    "Name": "Berlin",
+    "Longitude": 13.404954,
+    "Latitude": 52.520008
+  },
+  {
+    "Name": "Budapest",
+    "Longitude": 19.040236,
+    "Latitude": 47.497913
+  },
+  {
+    "Name": "Cologne",
+    "Longitude": 6.960279,
+    "Latitude": 50.937531
+  }
+]

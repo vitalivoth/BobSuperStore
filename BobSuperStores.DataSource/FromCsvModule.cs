@@ -29,13 +29,13 @@
 
 #endregion
 
-namespace BobSuperStores.Data.Modules;
+namespace BobSuperStores.DataSource;
 
 using Autofac;
-
+using BobSuperStores.Data;
 using BobSuperStores.Data.Builder;
 using BobSuperStores.Data.Calculations;
-using BobSuperStores.Data.Csv;
+using BobSuperStores.DataSource;
 using BobSuperStores.Data.Model;
 using BobSuperStores.Data.Transformation;
 
@@ -54,7 +54,8 @@ public class FromCsvModule : Module
     /// Initializes a new instance of the <see cref="FromCsvModule"/> class.
     /// </summary>
     /// <param name="logger">The logger.</param>
-    public FromCsvModule([CanBeNull] ILogger logger = null)
+    /// <param name="foo">The logger.</param>
+    public FromCsvModule([CanBeNull] ILogger logger)
     {
         this.Logger = logger;
     }

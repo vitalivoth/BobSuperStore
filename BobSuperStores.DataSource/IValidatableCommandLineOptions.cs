@@ -29,7 +29,7 @@
 
 #endregion
 
-namespace BobSuperStores.Data;
+namespace BobSuperStores.DataSource;
 
 /// <summary>
 /// Represents a command line options instance that can be validated.
